@@ -1,8 +1,5 @@
 # global server node
-server = {
-    'host': '192.168.1.143',
-    'port': '9527'
-}
+server = {'host': '192.168.1.143', 'port': '9527'}
 # local client nodes
 clients = [
     {
